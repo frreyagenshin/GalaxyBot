@@ -1,0 +1,24 @@
+module.exports = {
+        name: "say",
+        description: "Sends a message that was inputted to a channel!",
+        usage: "&say",
+        category: "mod",
+        aliases: ["acc", "announcement"],
+        run: async (client, message, args) => {
+
+    if(!message.member.hasPermission(["MANAGE_MESSAGES", "ADMINISTRATOR"])) return message.channel.send("You can not use this command!")
+    
+    let argsresult;
+    let mChannel = message.mentions.channels.first()
+
+    message.delete()
+    if(mChannel) {
+        argsresult = args.slice(1).join(" ")
+        mChannel.send(argsresult)
+    } else {
+        argsresult = args.join(" ")
+        message.channel.send(argsresult)
+    }
+
+    }
+}
