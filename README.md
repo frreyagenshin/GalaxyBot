@@ -1,38 +1,19 @@
 <div align="center">
-  <h1>Discord.js Tutorial</h1>
-  <a href="https://discord.gg/MgVaazZ">
-    <img src="https://discordapp.com/api/guilds/416512197590777857/embed.png" alt="Discord" />
+  <h1>GalaxyBot</h1>
+  <a href="https://discord.gg/Rfp74wv">
+    <img src="https://discordapp.com/api/v7/guilds/692650451979731024/widget.png?style=shield" alt="Discord" />
   </a>
 </div>
 
 ## About
 
-Repository for the [Discord.js Turorials](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj) series on [MenuDocs](https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA).
-
-## How to find our episodes code
-[click me](https://help.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
-
-Click on the branch-selector button located here:
-
-![Branch Selector](https://i.imgur.com/JLfMM19.png)
-
-Select the desired episode's source code:
-
-![Branch Selector Depth 1](https://i.imgur.com/AHQBA2k.png)
-
-Once you've selected a branch, you can browse through the files available:
-
-![Source Code](https://i.imgur.com/7AaS1pE.png)
+This is the repository for my Discord bot, GalaxyBot! It contains all the code and APIs used to make the bot!
+It also contains some useful resources you can use to learn about discord bot coding!
 
 
-## MenuDocs
-- [Discord.js Series](https://www.youtube.com/watch?v=UcLspwognk0&list=PLWnw41ah3I4ZfNLV3by7nB6JO2WcCc3Wj)
-- [Other Series](https://www.youtube.com/menudocs/playlists)
-- [Website](https://menudocs.org)
-- [Discord Server](https://discord.gg/MgVaazZ)
-- [GitHub](https://github.com/MenuDocs)
-- [Twiter](https://twitter.com/MenuDocs)
-- [Twitch](https://twitch.tv/MenuDocs)
+## GalaxyBot Invites
+- [Invite the bot to your server!](https://discordapp.com/oauth2/authorize?client_id=692374798654898260&scope=bot&permissions=8)
+- [Join the support server!](https://discord.gg/Rfp74wv)
 
 ## Resources
 - [Discord.js documentation](https://discord.js.org)
